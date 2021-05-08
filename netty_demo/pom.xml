@@ -20,6 +20,14 @@
             <version>4.1.63.Final</version>
         </dependency>
 
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/org.apache.curator/curator-recipes &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>org.apache.curator</groupId>-->
+<!--            <artifactId>curator-recipes</artifactId>-->
+<!--            <version>5.1.0</version>-->
+<!--        </dependency>-->
+
+
     </dependencies>
 
 </project>
